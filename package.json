@@ -1,0 +1,13 @@
+{
+  "name": "project-restoration",
+  "version": "1.0.0",
+  "description": "1. `npm install` 2. Copy `.env.example` to `.env` and fill your private key and Pinata keys. 3. Compile: `npx hardhat compile` 4. Test: `npx hardhat test` 5. Deploy to Mumbai testnet: `npx hardhat run scripts/deploy.js --network mumbai` 6. Open `frontend/index.html` in a browser (or serve with `npx http-server frontend`).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
